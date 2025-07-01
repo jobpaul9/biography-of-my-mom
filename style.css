@@ -1,0 +1,17 @@
+body{
+ margin: 0%;
+ padding: 0%;
+ background-color: blue;   
+}
+h1{
+    color: red;
+    font-size: x-small;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: green;
+}
+img{
+    width: 30%;
+    height: 50%;
+    
+}
